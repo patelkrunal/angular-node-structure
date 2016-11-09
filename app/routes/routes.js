@@ -4,7 +4,6 @@
 
 //require everything that you need.
 var router = require('express').Router();
-var Indicative = new(require("indicative"));
 var _          = require('underscore');
 
 
